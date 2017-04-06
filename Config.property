@@ -1,0 +1,7 @@
+ChromeDriver=C:\\Data\\chromedriver.exe
+
+IEDriver=C:\\Data\\IEDriverServer.exe
+
+URL=http://learn-automation.com/
+
+Filepath=
